@@ -1,0 +1,246 @@
+{
+ "type": "list",
+ "headline": "My TV",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,3,2",
+  "color": "msx-glass",
+  "imageFiller": "height-center"
+ },
+ "items": [
+  {
+   "title": "Spy x Family",
+   "titleFooter": "6 items",
+   "action": "content:https://YOUR-HOST/msx/g/spy-x-family.json",
+   "image": "https://media.animeoshi.com/anime/images/legacy-upscaled/480/1941124719.jpg"
+  },
+  {
+   "title": "Angels of Death",
+   "titleFooter": "13 items",
+   "action": "content:https://YOUR-HOST/msx/g/angels-of-death.json",
+   "image": "https://static.wikia.nocookie.net/satsuriku-no-tenshi/images/4/4d/KeyVisual%28Anime%29.jpg/revision/latest?cb=20180322002814"
+  },
+  {
+   "title": "Dragon Ball",
+   "titleFooter": "153 items",
+   "action": "content:https://YOUR-HOST/msx/g/dragon-ball.json",
+   "image": "https://es.web.img2.acsta.net/pictures/22/11/22/14/02/3642167.jpg"
+  },
+  {
+   "title": "Dragon Ball Z",
+   "titleFooter": "291 items",
+   "action": "content:https://YOUR-HOST/msx/g/dragon-ball-z.json",
+   "image": "https://image.tmdb.org/t/p/original/aKr5GFLLAGy4ndo1NKkIngx1teJ.jpg"
+  },
+  {
+   "title": "Dragon Ball GT",
+   "titleFooter": "65 items",
+   "action": "content:https://YOUR-HOST/msx/g/dragon-ball-gt.json",
+   "image": "https://a.storyblok.com/f/178900/1000x1475/81beb2ca0b/dragon-ball-gt-tall-catalog-france.jpg/m/filters%3Aquality%2895%29format%28webp%29"
+  },
+  {
+   "title": "The Eminence in Shadow Dual Audio",
+   "titleFooter": "32 items",
+   "action": "content:https://YOUR-HOST/msx/g/the-eminence-in-shadow-dual-audio.json",
+   "image": "https://image.tmdb.org/t/p/original/2iDbkljgNVARndA9dVD9zcbuItd.jpg"
+  },
+  {
+   "title": "The Eminence in Shadow",
+   "titleFooter": "32 items",
+   "action": "content:https://YOUR-HOST/msx/g/the-eminence-in-shadow.json",
+   "image": "https://image.tmdb.org/t/p/original/2iDbkljgNVARndA9dVD9zcbuItd.jpg"
+  },
+  {
+   "title": "Call of the Night",
+   "titleFooter": "25 items",
+   "action": "content:https://YOUR-HOST/msx/g/call-of-the-night.json",
+   "image": "https://cdn.sanity.io/images/8l158s6b/production/859836f685f2b29bb3a73825668197777a6312c5-424x600.jpg?auto=format&w=2000"
+  },
+  {
+   "title": "The Rising of the Shield Hero",
+   "titleFooter": "62 items",
+   "action": "content:https://YOUR-HOST/msx/g/the-rising-of-the-shield-hero.json",
+   "image": "https://images.justwatch.com/poster/241519432/s718/dun-noyong-zhe-nocheng-rishang-gari.jpg"
+  },
+  {
+   "title": "Sword Art Online",
+   "titleFooter": "104 items",
+   "action": "content:https://YOUR-HOST/msx/g/sword-art-online.json",
+   "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxMybvQFv4XOwqRTgkmvIrclPhD4.jpg"
+  },
+  {
+   "title": "Motociklistet nga Marsi",
+   "titleFooter": "34 items",
+   "action": "content:https://YOUR-HOST/msx/g/motociklistet-nga-marsi.json",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bcE7Wm9iPeV384pctpAgotf5pSvE7pChhCLReNfhHQ&s=10"
+  },
+  {
+   "title": "Bob ndërtuesi",
+   "titleFooter": "55 items",
+   "action": "content:https://YOUR-HOST/msx/g/bob-ndertuesi.json",
+   "image": "https://tvguru.ru/uploads/posts/2026-01/1767370684_6957efbc44f52.jpg"
+  },
+  {
+   "title": "SpongeBob - S01",
+   "titleFooter": "21 items",
+   "action": "content:https://YOUR-HOST/msx/g/spongebob-s01.json",
+   "image": "https://image.tmdb.org/t/p/original/y6dPTylNEJ0FJRjbgnB96KYT1d8.jpg"
+  },
+  {
+   "title": "SpongeBob - S02",
+   "titleFooter": "22 items",
+   "action": "content:https://YOUR-HOST/msx/g/spongebob-s02.json",
+   "image": "https://image.tmdb.org/t/p/original/y6dPTylNEJ0FJRjbgnB96KYT1d8.jpg"
+  },
+  {
+   "title": "SpongeBob - S03",
+   "titleFooter": "20 items",
+   "action": "content:https://YOUR-HOST/msx/g/spongebob-s03.json",
+   "image": "https://image.tmdb.org/t/p/original/y6dPTylNEJ0FJRjbgnB96KYT1d8.jpg"
+  },
+  {
+   "title": "SpongeBob - S04",
+   "titleFooter": "22 items",
+   "action": "content:https://YOUR-HOST/msx/g/spongebob-s04.json",
+   "image": "https://image.tmdb.org/t/p/original/y6dPTylNEJ0FJRjbgnB96KYT1d8.jpg"
+  },
+  {
+   "title": "SpongeBob - S05",
+   "titleFooter": "24 items",
+   "action": "content:https://YOUR-HOST/msx/g/spongebob-s05.json",
+   "image": "https://image.tmdb.org/t/p/original/y6dPTylNEJ0FJRjbgnB96KYT1d8.jpg"
+  },
+  {
+   "title": "SpongeBob - S06",
+   "titleFooter": "22 items",
+   "action": "content:https://YOUR-HOST/msx/g/spongebob-s06.json",
+   "image": "https://image.tmdb.org/t/p/original/y6dPTylNEJ0FJRjbgnB96KYT1d8.jpg"
+  },
+  {
+   "title": "SpongeBob - S07",
+   "titleFooter": "13 items",
+   "action": "content:https://YOUR-HOST/msx/g/spongebob-s07.json",
+   "image": "https://image.tmdb.org/t/p/original/y6dPTylNEJ0FJRjbgnB96KYT1d8.jpg"
+  },
+  {
+   "title": "Bob Sfungjeri",
+   "titleFooter": "27 items",
+   "action": "content:https://YOUR-HOST/msx/g/bob-sfungjeri.json",
+   "image": "https://image.tmdb.org/t/p/original/y6dPTylNEJ0FJRjbgnB96KYT1d8.jpg"
+  },
+  {
+   "title": "Naruto",
+   "titleFooter": "108 items",
+   "action": "content:https://YOUR-HOST/msx/g/naruto.json",
+   "image": "https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY%40._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+   "title": "One Piece",
+   "titleFooter": "329 items",
+   "action": "content:https://YOUR-HOST/msx/g/one-piece.json",
+   "image": "https://media.senscritique.com/media/000006482131/source_big/one_piece.jpg"
+  },
+  {
+   "title": "Detektivi Konan",
+   "titleFooter": "72 items",
+   "action": "content:https://YOUR-HOST/msx/g/detektivi-konan.json",
+   "image": "https://images.plex.tv/photo?scale=2&size=large-480&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrRIEFvHRy01OYzmXQBbGeW0Qilc.jpg"
+  },
+  {
+   "title": "Sferat e dragoit",
+   "titleFooter": "77 items",
+   "action": "content:https://YOUR-HOST/msx/g/sferat-e-dragoit.json",
+   "image": "https://es.web.img2.acsta.net/pictures/22/11/22/14/02/3642167.jpg"
+  },
+  {
+   "title": "Sferat e dragoit Daima",
+   "titleFooter": "20 items",
+   "action": "content:https://YOUR-HOST/msx/g/sferat-e-dragoit-daima.json",
+   "image": "https://ohmysaiyan.com/uploads/default/original/2X/0/0c6b2e6b03f9684519022d6d91846e8971525510.jpeg"
+  },
+  {
+   "title": "Fantazma Deni",
+   "titleFooter": "27 items",
+   "action": "content:https://YOUR-HOST/msx/g/fantazma-deni.json",
+   "image": "https://artworks.thetvdb.com/banners/posters/5cfc5398423ce.jpg"
+  },
+  {
+   "title": "Njeriu-Merimangë",
+   "titleFooter": "37 items",
+   "action": "content:https://YOUR-HOST/msx/g/njeriu-merimange.json",
+   "image": "https://artworks.thetvdb.com/banners/v4/series/73750/posters/64b9ae47002a5.jpg"
+  },
+  {
+   "title": "Shippuden Shqip",
+   "titleFooter": "7 items",
+   "action": "content:https://YOUR-HOST/msx/g/shippuden-shqip.json",
+   "image": "https://3.bp.blogspot.com/-jM8SbPDO9oo/WkedIJXcl_I/AAAAAAAABNA/HDukMpl8OPgRmhJCmeqQF8JW01G4zY--ACLcBGAs/s1600/Naruto-Shippuuden.jpg"
+  },
+  {
+   "title": "Naruto Shippuden",
+   "titleFooter": "191 items",
+   "action": "content:https://YOUR-HOST/msx/g/naruto-shippuden.json",
+   "image": "https://3.bp.blogspot.com/-jM8SbPDO9oo/WkedIJXcl_I/AAAAAAAABNA/HDukMpl8OPgRmhJCmeqQF8JW01G4zY--ACLcBGAs/s1600/Naruto-Shippuuden.jpg"
+  },
+  {
+   "title": "Oli dhe Benxhi",
+   "titleFooter": "26 items",
+   "action": "content:https://YOUR-HOST/msx/g/oli-dhe-benxhi.json",
+   "image": "https://cdn.30nama.com/poster/30132140-b_30NAMA.jpg"
+  },
+  {
+   "title": "Oli dhe Benxhi 2018 s1",
+   "titleFooter": "25 items",
+   "action": "content:https://YOUR-HOST/msx/g/oli-dhe-benxhi-2018-s1.json",
+   "image": "https://cdn.30nama.com/poster/30132140-b_30NAMA.jpg"
+  },
+  {
+   "title": "Oli dhe Benxhi 2018 s2",
+   "titleFooter": "39 items",
+   "action": "content:https://YOUR-HOST/msx/g/oli-dhe-benxhi-2018-s2.json",
+   "image": "https://cdn.30nama.com/poster/30132140-b_30NAMA.jpg"
+  },
+  {
+   "title": "Avatar",
+   "titleFooter": "62 items",
+   "action": "content:https://YOUR-HOST/msx/g/avatar.json",
+   "image": "https://image.tmdb.org/t/p/original/3XF2ojwuFEZRc16OOuktb2U6dgH.jpg"
+  },
+  {
+   "title": "Legjenda e Korrës",
+   "titleFooter": "50 items",
+   "action": "content:https://YOUR-HOST/msx/g/legjenda-e-korres.json",
+   "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kl60aLEtfUi1O6c0N8OtrEq7hSu.jpg"
+  },
+  {
+   "title": "Tom & Jerry DVD",
+   "titleFooter": "14 items",
+   "action": "content:https://YOUR-HOST/msx/g/tom-jerry-dvd.json",
+   "image": "https://sothebys-md.brightspotcdn.com/dims4/default/e282129/2147483647/strip/true/crop/4656x7232%2B0%2B0/resize/4096x6362%21/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fa6%2F55%2Feec70ec04ec6a72a2b3c904cb73e%2Ftom-and-jerry-cartoons-movie-poster-film-season.jpg"
+  },
+  {
+   "title": "Zenki",
+   "titleFooter": "26 items",
+   "action": "content:https://YOUR-HOST/msx/g/zenki.json",
+   "image": "https://cdn.myanimelist.net/images/anime/1014/98589l.jpg"
+  },
+  {
+   "title": "Xhoni Bravo",
+   "titleFooter": "33 items",
+   "action": "content:https://YOUR-HOST/msx/g/xhoni-bravo.json",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0TfBqI1hwSwl9ex-Nl-gB8zdS0kXbhwA0MEL4I6Nj0g&s=10"
+  },
+  {
+   "title": "Zemra Kozetes",
+   "titleFooter": "52 items",
+   "action": "content:https://YOUR-HOST/msx/g/zemra-kozetes.json",
+   "image": "https://media.senscritique.com/media/000006497693/0/heidi.jpg"
+  },
+  {
+   "title": "Animated Movies",
+   "titleFooter": "33 items",
+   "action": "content:https://YOUR-HOST/msx/g/animated-movies.json",
+   "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d50d6aa8-79da-4739-a2e1-eb26d50c729d/dhcvx8l-3f914bb3-0b62-4639-9d9d-43477bb4e47d.png/v1/fill/w_1280%2Ch_998%2Cq_80%2Cstrp/2d_and_cgi_animated_movies_posters_by_jurassicwarrior451_dhcvx8l-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk4IiwicGF0aCI6Ii9mL2Q1MGQ2YWE4LTc5ZGEtNDczOS1hMmUxLWViMjZkNTBjNzI5ZC9kaGN2eDhsLTNmOTE0YmIzLTBiNjItNDYzOS05ZDlkLTQzNDc3YmI0ZTQ3ZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Z59NhTKUa5SiIpuVKOlmJn67_wgGqhnCYEcmG_pGyzk"
+  }
+ ]
+}
