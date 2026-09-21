@@ -1,5 +1,5 @@
 {
   "name": "My MSX Service",
   "version": "1.0.0",
-  "parameter": "menu:https://killersage-tech.github.io/msxtest/msx/menu.json"
+  "parameter": "content:https://killersage-tech.github.io/msx/menu.json"
 }
